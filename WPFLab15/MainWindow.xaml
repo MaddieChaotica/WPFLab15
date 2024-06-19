@@ -1,0 +1,34 @@
+﻿<Window x:Class="WPFLab15.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFLab15"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="LightGray">
+        <StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,30,0,0">
+                <TextBlock Margin="30,0,0,0" Text="Random numbers" Foreground="White" Background="Gray" FontSize="40"/>
+                <Border BorderBrush="White" BorderThickness="3" Margin="15,0,0,0">
+                    <TextBox Name="Randies" Foreground="White" Background="Aquamarine" FontSize="25" Width="300" IsReadOnly="True"/>
+                </Border>
+                <Button Name="generator" Content="GENERATE" Margin="30,0,0,0" FontSize="20" Background="Pink" Foreground="Olive" Click="generator_Click"/>
+
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,30,0,0">
+                <TextBlock Margin="30,0,0,0" Text="Random alphabet" Foreground="White" Background="Gray" FontSize="40"/>
+                <Border BorderBrush="White" BorderThickness="3" Margin="15,0,0,0">
+                    <TextBox Name="letties" Foreground="White" Background="Aquamarine" FontSize="25" Width="300" IsReadOnly="True"/>
+                </Border>
+                <Button Name="generator2" Content="GENERATE" Margin="30,0,0,0" FontSize="20" Background="Pink" Foreground="Olive" Click="generator2_Click"/>
+
+            </StackPanel>
+            <Line Stroke="Black" X1="0" X2="1000"  StrokeThickness="5" Margin="0,50,0,0"/>
+            <TextBox Name="uEnc" Margin="0,20,0,0" Text="Введите сообщение" TextAlignment="Center" FontSize="20"/>
+            <TextBox Name="Key" Text="Введите ключ" Margin="0,20,0,0" TextAlignment="Center" FontSize="20"/>
+            <Button Name="Encrypt" Content="ENCRYPT!" Width="100" FontSize="20" Foreground="White" Background="Black" Click="Encrypt_Click"/>
+            <TextBox Name="Enc" Margin="0,20,0,0" TextAlignment="Center" FontSize="20"/>
+        </StackPanel>
+    </Grid>
+</Window>

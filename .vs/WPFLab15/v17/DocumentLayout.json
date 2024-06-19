@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimad\\source\\repos\\WPFLab15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0495113A-8B6C-4640-AD51-21FF2D847CFB}|WPFLab15\\WPFLab15.csproj|c:\\users\\dimad\\source\\repos\\wpflab15\\wpflab15\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0495113A-8B6C-4640-AD51-21FF2D847CFB}|WPFLab15\\WPFLab15.csproj|solutionrelative:wpflab15\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0495113A-8B6C-4640-AD51-21FF2D847CFB}|WPFLab15\\WPFLab15.csproj|c:\\users\\dimad\\source\\repos\\wpflab15\\wpflab15\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0495113A-8B6C-4640-AD51-21FF2D847CFB}|WPFLab15\\WPFLab15.csproj|solutionrelative:wpflab15\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\dimad\\source\\repos\\WPFLab15\\WPFLab15\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFLab15\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\dimad\\source\\repos\\WPFLab15\\WPFLab15\\MainWindow.xaml",
+              "RelativeToolTip": "WPFLab15\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T10:56:23.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\source\\repos\\WPFLab15\\WPFLab15\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFLab15\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\dimad\\source\\repos\\WPFLab15\\WPFLab15\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFLab15\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAUwDsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:56:21.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
